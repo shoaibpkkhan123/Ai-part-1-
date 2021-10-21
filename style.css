@@ -1,0 +1,23 @@
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_objects
+{
+    color: darkgoldenrod;
+}   
+#camera
+{
+    border: 2px  ridge gold;
+    width: 350px;
+    height: 300px;
+}
+.name_of_objects,#rusult_object_name,#result_object_accuracy
+{
+color: yellow;
+}
+body 
+{
+    background-color: rgb(158, 211, 85);
+}
